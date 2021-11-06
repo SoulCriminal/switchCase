@@ -1,0 +1,15 @@
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/bin/Debug/net5.0/switchCase.deps.json
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/bin/Debug/net5.0/switchCase.runtimeconfig.json
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/bin/Debug/net5.0/switchCase.runtimeconfig.dev.json
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/bin/Debug/net5.0/switchCase.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/bin/Debug/net5.0/ref/switchCase.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/bin/Debug/net5.0/switchCase.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/switchCase.csproj.AssemblyReference.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/switchCase.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/switchCase.AssemblyInfoInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/switchCase.AssemblyInfo.cs
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/switchCase.csproj.CoreCompileInputs.cache
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/switchCase.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/ref/switchCase.dll
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/switchCase.pdb
+/Users/hakkiayman/Desktop/VisualStudioCode/switchCase/obj/Debug/net5.0/switchCase.genruntimeconfig.cache
